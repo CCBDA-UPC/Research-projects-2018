@@ -36,7 +36,7 @@ Both team members need to demonstrate they have equally prepared their selected 
 
 There are two ways of delivering the presentation:
 
-a) present the slides both members simultaneously (10 slides each: *a-a-...-a-b-b-...-b* or *a-b-a-b-...-a-b* or any other mix you find more suitable to your topic). Questions can be answered by the one who knows more about the matter. 
+a) present the slides both members simultaneously (10 slides each: *a-a-...-a-b-b-...-b* or *a-b-a-b-...-a-b* or any other mix you find more suitable to your topic). Questions can be answered by the one who knows more about the matter that the audience is asking about. 
 
 b) one delivers the 20 slides, and the other one responds the Q&A, bearing in mind that **who will be doing what will be decided just before the presentation begins by each team member selecting a piece of paper saying "presentation"/"Q&A"**.
 
