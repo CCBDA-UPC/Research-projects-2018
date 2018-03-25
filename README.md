@@ -57,4 +57,4 @@ If you are the same team for this assignment and for the laboratory sessions you
 
 # Submit your assignment
 
-You need to create a **PDF** file with the 20 slides and submit it to the Racó together with the GitHub URL containing your report by May 8th 23:59.
+You need to create a **PDF** file with the 20 slides and submit it to the Racó together with the name of the authors and the GitHub URL containing your report by May 8th 23:59.
