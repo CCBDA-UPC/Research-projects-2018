@@ -26,13 +26,15 @@ The speaker typically needs to explain:
 
 An elevator pitch does not have to contain all of those components, but it usually does at least explain why the idea is valuable and what the idea is. 
 
-I challenge you **to make the effort of extracting the best of the best of your homework project** and be able to use the Pecha Kutcha technique to deliver your presentations. 
+I challenge you **to make the effort of extracting the best of the best of your homework project** and be able to inspire on the Pecha Kutcha technique to deliver your presentations.
+
+You can watch many [Pechakucha presentations for the BCN DataBeers event](https://www.youtube.com/channel/UCGhaRXo3qMJHMFH62wCB0Gg/videos) for some inspiration.
 
 Therefore, for the homework research presentation, the format will be twenty slides and twenty seconds per slide for your presentation (a total of six minutes) and three more minutes for Q&A. The slides will be passed manually, but it is better that you adjust your presentation, as much as possible, to the timings. *After six minutes you will need to stop the delivery and begin the Q&A turn.*
 
-The delivery of your topic will be scheduled on a slot every 10 minutes from 9:05 to 9:55 on Thursdays of May. The first presentation day will be May 10th and the last day May 31st: 5 presentations each day. A calendar will be made public at Racó.
+The delivery of your topic will be scheduled on a slot every 10 minutes on Thursdays of May. The first presentation day will be May 10th. A calendar will be made public at Racó.
 
-Both team members need to demonstrate they have equally prepared their selected topic. The quality of the delivery and the answers will be taken into account. Therefore both members may not end up having the same grade. 
+Both team members need to demonstrate they have equally prepared their selected topic. The quality of the delivery and the answers will be taken into account. Therefore **both members may not end up having the same grade**. 
 
 There are two ways of delivering the presentation:
 
