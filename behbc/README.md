@@ -62,7 +62,7 @@ Amazon Redshift was designed to fulfill the needs of systems that can start with
   
 Redshift was developed to work in a **Cluster** formation, were a cluster contains 2 or more **Compute Nodes** coordinated through a **Leader Node**. In this way, all client applications connect to the cluster through the Leader Node. Amazon Redshift is designed to implement certain SQL functions only on the **Leader Node. A query that uses any of these functions will return an error if it references tables that reside on the compute nodes.   
   
-![Redshift Arch](https://github.com/behbc/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/img/redshift-arch.png?raw=true)  
+![Redshift Arch](./img/redshift-arch.png?raw=true)
   
 #### 2.3.1. Clusters  
   
@@ -117,13 +117,13 @@ It is important to mention that anyhow the table must contain a SortKey once tha
 After the previous tutorial was followed the user is abble to create a connection to Amazon Redshift by configuring the ODBC/JDBC connection settings for the computer or selected BI tool driver.
 
 The parameters should be taken fro the On the Configuration tab, under Cluster Database Properties.
-![](https://github.com/behbc/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/img/connect-cluster.png?raw=true)  
+![](./img/connect-cluster.png?raw=true)
 
 In the example below the connection is made and Tableau is used for data visualization and analysis.
-![Tableau1](https://github.com/behbc/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/img/tableau-1.png?raw=true)  
+![Tableau1](./img/tableau-1.png?raw=true)
 
 Just to show the use o Amazon Redshift the image bellow show the data for sales in the categories of products and its total revenue for the time dimension on month.
-![Tableau1](https://github.com/behbc/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/img/tableau-2.png?raw=true)  
+![Tableau1](./img/tableau-2.png?raw=true)
 
 
 
@@ -205,12 +205,12 @@ Review the ML settings on the review page. If everything is correct, we can clic
 ##### Step 6: Review the evaluation summary  
 When the model is completed, we can redirect to **Evaluation Summary** page.  
   
-![ML Model Performance](https://github.com/behbc/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/img/score.jpg?raw=true)  
+![ML Model Performance](./img/score.jpg?raw=true)
   
 The gray line in the chart indicates actual '0' in the dataset, and the black line in the chart indicates actual '1' in the dataset. All the area with red shadow means these records are incorrectly predicted. On the left side of the screenshot, we can see there is one setting names *Trade-off based on score threshold*. Currently, the value is set to 0.5, it means if one row has scored more than 0.5, it will be predicted to 1. Otherwise, it will be predicted to 0. Below the threshold, we can see the accuracy of the prediction is around 91%. We can adjust the threshold to higher or lower value to reach more accurate prediction. We can also choose to adjust the value in *Advanced metrics*. If we want lower false positive rate, we can drag the scroll bar to lower value. Please notice that the threshold will change correspondingly. After we set all the expected value of performance, we can click on the button *"Save score threshold at \*"*. After clicking on the save button, all the steps of creating an ML model is done.  
 ##### Step 7: Use the created ML model to predict value  
 In the tutorial, we use the ML model to predict real-time data. At the right side of the ML model report page, we redirect to *"Try real-time predictions"* page. We can either input a row of data or paste one record. After populating the value for each field, we can click on the *"Create Prediction"* button to submit the record. The prediction result is displaying on the right side of the page.  
-![Prediction Result](https://github.com/behbc/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/img/Prediction_Result.jpeg?raw=true)  
+![Prediction Result](./img/Prediction_Result.jpeg?raw=true)
 We can see that the prediction for my input data is "0".  
   
 We can also use the Amazon Machine Learning to do the batch process. Please notice that the data should be stored S3 or Redshift as well which is similar to the "Step 1".
