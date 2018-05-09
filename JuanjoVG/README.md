@@ -67,18 +67,18 @@ We use Tableau Public as with this it will be easily reproducible by anyone and 
 
 Tableau public
 
-JSON with the data ![Data](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/Data/HEX%20Taliuzz.json)
+JSON with the data ![Data](./Data/HEX%20Taliuzz.json)
 
 The JSON contains stats of a player with different champions. We used this dataset as is really simple and we used it originally to explore tableau.
 
 First what we will do is import the json and it will prompt a dialog to select the levels of the json that we want to import in this way we can select the levels of the json that we want just by checking them. In our example we will check all of them as follows:
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo00.png)
+![Screenshot Demo](./ImagesReport/demo00.png)
 
 Now we will see that our data is imported and shown in table mode.
 Now we will see how to plot a really basic plot. For this, we will create a new Sheet by clicking in the low left corner. This we will prompt us a new blank sheet.
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo01.png)
+![Screenshot Demo](./ImagesReport/demo01.png)
 
 
 In this windows we have the following layout:
@@ -93,37 +93,37 @@ In this windows we have the following layout:
 
 To do our first plot we will select from the dimension: Champion Name and from the metrics wins. Then we will select a simple bar plot.
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo02.png)
+![Screenshot Demo](./ImagesReport/demo02.png)
 
 
 Now we will click the treemap and we will obtain the following:
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo03.png)
+![Screenshot Demo](./ImagesReport/demo03.png)
 
 
 As we see the color is practically unreadable and has no sense as it means exactly the same as the size. So we will go to marks and we will remove the color representation from the sum of games and we will drag to this section the champion names again and will assign the color to it so we will obtain the next:
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo04.png)
+![Screenshot Demo](./ImagesReport/demo04.png)
 
 So now we have changed the colors meaning and added a label wich show us the size value and we have obtained the following plot:
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo05.png)
+![Screenshot Demo](./ImagesReport/demo05.png)
 
 As we can see now we have a more readable plot in a very easy way.
 
 Now we will do a bar plot comparing the kills and deaths to see another way of doing this. First, we will create a new sheet and we will drag the champions name to the column field and the deaths and kills to the rows field. And we will obtain the following plot:
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo06.png)
+![Screenshot Demo](./ImagesReport/demo06.png)
 
 Now we want to merge the two plots so we simply drag one plot into the other. Then as we want to differentiate the two metrics with colors we will drag the “Metrics Names” into the marks and will select this as color. Now we will click color and select the correct colors.
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo07.png)
+![Screenshot Demo](./ImagesReport/demo07.png)
 
 Now we will add a filter to only show this stats for five champions by dragging the champion name into the filter section and selecting the 5 we want to visualize.
 
 Finally, we will create a dashboard to get all our plots together. For this, we will do left click and select new Dashboard. And there we will drag the two sheets that we previously created.
 
-![Screenshot Demo](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/demo08.png)
+![Screenshot Demo](./ImagesReport/demo08.png)
 
 And now if we save out the project it would automatically upload to tableau public server and you will have a link to your project that allows you to share your work. 
 
@@ -140,7 +140,7 @@ If you followed all the steps you should end up with something like this: https:
 
 We also want to show you a comparative between diferent BI tools and their classification
 
-![Comparative](https://github.com/JuanjoVG/CLOUD-COMPUTING-CLASS-2018/blob/master/Research-topic/ImagesReport/comp.png)
+![Comparative](./ImagesReport/comp.png)
 
 As we can see we have four sub-quadrants:
 
