@@ -2,9 +2,9 @@
 
 Group 1210
 
-TUTER, Batuhan: tuterbatuhan@gmail.com
+TUTER, Batuhan
 
-WANG, Yue: wangyue0204@outlook.com
+WANG, Yue
 
 # 1 Introduction to Vagrant
 

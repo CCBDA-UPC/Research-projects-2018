@@ -2,9 +2,9 @@
 
 ### Universitat Politècnica de Catalunya
 
--   Quang Duy Tran - duy9968\@gmail.com
+-   Quang Duy Tran
 
--   Marc Garnica Caparros - marcgarnicacaparros\@gmail.com
+-   Marc Garnica Caparros
 
 ## Abstract
 

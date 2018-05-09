@@ -7,8 +7,8 @@ Course link: [ccbda-upc.github.io](https://ccbda-upc.github.io/).
 
 Group 1207
 
--   Quang Duy Tran - duy9968\@gmail.com
+-   Quang Duy Tran
 
--   Marc Garnica Caparros - marcgarnicacaparros\@gmail.com
+-   Marc Garnica Caparros
 
 This repository contains the lab sessions for the Cloud Computing for Big Data Analytics class during the 2017-2018Q2 semester in Facultat d'Informàtica de Barcelona.
