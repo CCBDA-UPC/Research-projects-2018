@@ -89,7 +89,7 @@ To answer this question, it is helpful to understand the historical need for Clo
 ##  3.2 Puppet Architecture:
   In the following picture the master slave architecture is illustrated:
   
-  ![img](https://github.com/patrick-s-upc/CLOUD-COMPUTING-CLASS-2018-/blob/master/Research%20topic/puppet.png)
+  ![img](./puppet.png)
 
 ####  Following functions are performed:
 1.  The Puppet Agent sends the “facts” to the puppet master. Facts are key/value data pair that represents some aspect of the client state -e.g IP address, up-time, operating system, mac address or whether it’s a virtual machine. 
@@ -104,7 +104,7 @@ To answer this question, it is helpful to understand the historical need for Clo
 
   The following are some reasons large organizations choose Puppet Enterprise:
   
-  ![Puppet](https://github.com/patrick-s-upc/CLOUD-COMPUTING-CLASS-2018-/blob/master/Research%20topic/puppet2.jpg)
+  ![Puppet](./puppet2.jpg)
 
 #### Packaging
   Puppet Enterprise includes over 40+ open source projects (MCollective, Facter, Hiera, etc.) in a straightforward installer. This saves teams precious time in packaging and managing dependencies for their Puppet deployments.
