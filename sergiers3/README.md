@@ -10,7 +10,7 @@ Dr. Angel Toribio-González
 May 8th, 2018_
 
 <p align="center">
-  <img src="tableaulogo.jpg">
+  <img src="./tableaulogo.jpg">
 </p>
 
 ## Index
@@ -72,7 +72,7 @@ __Tableau Desktop__: Tableau desktop offers all the full features of its softwar
 * There is a Mac version available.
 
 <p align="center">
-  <img src="tdesk.png" width="50%" height="50%" />
+  <img src="./tdesk.png" width="50%" height="50%" />
 </p>
 
 ```
@@ -88,12 +88,12 @@ __Tableau Server__: Tableau Server allows users to save workbooks securely throu
 * Empower business team to find answers in minutes, not weeks or months.
 
 <p align="center">
-  <img src="tserver1.png" width="50%" height="50%" />
+  <img src="./tserver1.png" width="50%" height="50%" />
 </p>
 
 
 <p align="center">
-  <img src="TableauServer2.png" width="50%" height="50%" />
+  <img src="./TableauServer2.png" width="50%" height="50%" />
 </p>
 
 ```
@@ -108,11 +108,11 @@ __Tableau Online__: This is a free version of the software that can allow anyone
 * Publish dashboards with Tableau Desktop and share them with colleagues, partners or customers.
 
 <p align="center">
-  <img src="tonline.png" width="50%" height="50%" />
+  <img src="./tonline.png" width="50%" height="50%" />
 </p>
 
 <p align="center">
-  <img src="tonline1.png" width="50%" height="50%" />
+  <img src="./tonline1.png" width="50%" height="50%" />
 </p>
 
 ```
@@ -122,7 +122,7 @@ Image 3. Tableau Online User Interface (Source: Tableau, 2017)
 __Tableau Reader__: Tableau Reader allows users to read the Tableau file types. If someone wants to share workbook by sending a file, the receiver will need a Tableau reader to open the document. Without the reader, the user may need share it publicly or convert the workbook into a PDF format.[[11]](##references) It offers the following characteristics:
 
 <p align="center">
-  <img src="treader.jpg" width="50%" height="50%" />
+  <img src="./treader.jpg" width="50%" height="50%" />
 </p>
 
 ```
@@ -142,7 +142,7 @@ Tableau uses a workbook and a sheet file structure, much like Microsoft Excel. A
 * A worksheet contains only one view along with shelves, cards, legends and the Data and Analysis panels in its sidebar.
 
 <p align="center">
-  <img src="workspace.png" width="50%" height="50%" />
+  <img src="./workspace.png" width="50%" height="50%" />
 </p>
 
 ```
@@ -157,7 +157,7 @@ The dimensions may contain hierarchies. These hierarchies can be navigated throu
 * A dashboard consists of a collection of several worksheets and supporting information that are displayed in one place so it is possible to compare and monitor a variety of data at the same time. For example, if a set of views are reviewed every day, instead of flipping through each worksheet, a panel can be created to shows all views together.
 
 <p align="center">
-  <img src="dash.png" width="50%" height="50%" />
+  <img src="./dash.png" width="50%" height="50%" />
 </p>
 
 ```
@@ -168,7 +168,7 @@ Image 6. A dashboard is a collection of views with dashboard and lat panes in it
 
 
 <p align="center">
-  <img src="stories.png" width="50%" height="50%" />
+  <img src="./stories.png" width="50%" height="50%" />
 </p>
 
 ```
@@ -195,7 +195,7 @@ In addition, in the context of the implementation of Big Data projects, there ar
 ### Comparison with Power BI
 
 <p align="center">
-  <img src="pbi.jpg" >
+  <img src="./pbi.jpg" >
 </p>
 
 So far we have talked about Tableau. But what about other similar tools in the market? The direct competition of Tableau would be Power BI. According to Gartner (2017),[[15]](##references). Tableau and Microsoft Power BI are the two front-runners in the business intelligence (BI) and data visualization software industry. Tableau remains to be perceived as the modern Business Intelligence market leader — still slightly ahead of Power BI (Microsoft) in terms of overall execution. While improvement continues for Tableau, it is at a much modest pace due to pricing and competitive pressure coming from Microsoft. We've analyzed multiple reviews that compare Tableau and Power BI to highlight main differences and the factors to consider in a purchase decision. Most of these reviews share a number of common aspects.[[16]](##references)
