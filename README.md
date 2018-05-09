@@ -70,6 +70,13 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 - [Vagrant I](./ferdidolot/README.MD) (*[slides](./ferdidolot/slides.pdf)*)  by Ferdiansyah Dolot - Raisa Uku.
 - [Vagrant II](./tuterbatuhan/README.md) (*[slides](./tuterbatuhan/slides.pdf)*)  by Batuhan Tuter - Yue Wang.
 
+## Deploying applications independently from the cloud vendor:
+
+- [CloudFoundry](./marBDMA/README.md) (*[slides](./marBDMA/slides.pdf)*)  by Marie Elisabeth Heinrich - Joan Tiffany Ong Lopez.
+- [Docker](./PauUPC/README.md) (*[slides](./PauUPC/slides.pdf)*)  by Alejandro Jurnet - Pau Marcer.
+- [Kubernetes](./kiey/README.md) (*[slides](./kiey/slides.pdf)*)  by Joan Marcual - Sergi Alonso.
+- [Firebase PaaS for mobiles](./GeneralVincento/README.md) (*[slides](./GeneralVincento/slides.pdf)*)  by Aksel Vincent Berg - Alex Buleon.
+
 ## Data Science services on different cloud vendors:
 
 - [Services for data science at AWS I](./behbc/README.md) (*[slides](./behbc/slides.pdf)*)  by Bruno Baldez Correa - Rui Liu.
@@ -78,13 +85,6 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 - [Google cloud platform for Data Science II](./syfantid/README.md) (*[slides](./syfantid/slides.pdf)*)  by Syeda Noor Zehra Naqvi - Sofia Yfantidou.
 - [Services for Data Science at Microsoft Azure](./IllSc/README.md) (*[slides](./IllSc/slides.pdf)*)  by Ivan Putera Masli - Kshitij Kumar.
 - [Data lakes at Microsoft Azure](./jayanthi456/README.md) (*[slides](./jayanthi456/slides.pdf)*)  by Jayanthi Kambayatughar - Anastasiia Zavolozhina.
-
-## Deploying applications independently from the cloud vendor:
-
-- [CloudFoundry](./marBDMA/README.md) (*[slides](./marBDMA/slides.pdf)*)  by Marie Elisabeth Heinrich - Joan Tiffany Ong Lopez.
-- [Docker](./PauUPC/README.md) (*[slides](./PauUPC/slides.pdf)*)  by Alejandro Jurnet - Pau Marcer.
-- [Kubernetes](./kiey/README.md) (*[slides](./kiey/slides.pdf)*)  by Joan Marcual - Sergi Alonso.
-- [Firebase PaaS for mobiles](./GeneralVincento/README.md) (*[slides](./GeneralVincento/slides.pdf)*)  by Aksel Vincent Berg - Alex Buleon.
 
 ## Data Science tools and services:
 - [IoT hubs](./duy-tran/README.md) (*[slides](./duy-tran/slides.pdf)*)  by Marc Garnica Caparrós - Quang-Duy Tran.
