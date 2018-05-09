@@ -60,3 +60,48 @@ If you are the same team for this assignment and for the laboratory sessions you
 # Submit your assignment
 
 You need to create a **PDF** file with the 20 slides and submit it to the Racó together with the name of the authors and the GitHub URL containing your report by May 8th 23:59.
+
+# Index of presented reports
+
+## Cloud automation:
+
+- [Ansible](./denisovlev/README.md) by Anna Turu Pi - Lev Denisov.
+- [Puppet](./patrick-s-upc/README.md) by Burak Kilic - Patrick Schneider.
+- [Vagrant I](./ferdidolot/README.md) by Ferdiansyah Dolot - Raisa Uku.
+- [Vagrant II](./tuterbatuhan/README.md) by Batuhan Tuter - Yue Wang.
+
+## Data Science services on different cloud vendors:
+
+- [Google cloud platform for Data Science I](./todithanasi/README.md) by Ozge Koroglu - Todi Thanasi.
+
+- [Google cloud platform for Data Science II](./syfantid/README.md) by Syeda Noor Zehra Naqvi - Sofia Yfantidou.
+
+
+- [Services for data science at AWS](./paulalm94/README.md) by Luis Sosa - Paul Almasan.
+
+
+- [CloudFoundry](./marBDMA/README.md) by Marie Elisabeth Heinrich - Joan Tiffany Ong Lopez.
+- [Docker](./PauUPC/README.md) by Alejandro Jurnet - Pau Marcer.
+- [Kubernetes](./kiey/README.md) by Joan Marcual - Sergi Alonso.
+
+- [Data lakes at Microsoft Azure](./jayanthi456/README.md) by Jayanthi Kambayatughar - Anastasiia Zavolozhina.
+- [IoT hubs](./duy-tran/README.md) by Marc Garnica Caparrós - Quang-Duy Tran.
+
+
+- [Data visualization using Tableau I](./sergiers3/README.md) by Segio J. Ruiz Sainz - Dagoberto J. Herrera Murillo.
+- [Data visualization using Tableau II](./JuanjoVG/README.md) by Sergi Tortosa i Ortiz-Villajos - Juan José Vázquez Giménez.
+
+- [Firebase PaaS for mobiles](./GeneralVincento/README.md) by Aksel Vincent Berg - Alex Buleon.
+
+
+- [Spark I](./IreneMLC/README.md) by Adnan Boota - Irene López.
+- [Spark II](./Kashif-Rabbani/README.md) by Fatemeh Shafiee - Kashif Rabbani.
+
+
+- [Semantic Web](./start-and-solve/README.md) by Aleksei Karetnikov - Maksim Hrytsenia.
+
+
+- [Services for Data Science at Microsoft Azure](./IllSc/README.md) by Ivan Putera Masli - Kshitij Kumar.
+
+- [Services for data science at AWS](./behbc/README.md) by Bruno Baldez Correa - Rui Liu.
+
