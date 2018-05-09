@@ -72,10 +72,10 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 
 ## Data Science services on different cloud vendors:
 
-- [Services for data science at AWS](./behbc/README.md) (*[slides](./behbc/slides.pdf)*)  by Bruno Baldez Correa - Rui Liu.
+- [Services for data science at AWS I](./behbc/README.md) (*[slides](./behbc/slides.pdf)*)  by Bruno Baldez Correa - Rui Liu.
+- [Services for data science at AWS II](./paulalm94/README.md) (*[slides](./paulalm94/slides.pdf)*)  by Luis Sosa - Paul Almasan.
 - [Google cloud platform for Data Science I](./todithanasi/README.md) (*[slides](./todithanasi/slides.pdf)*)  by Ozge Koroglu - Todi Thanasi.
 - [Google cloud platform for Data Science II](./syfantid/README.md) (*[slides](./syfantid/slides.pdf)*)  by Syeda Noor Zehra Naqvi - Sofia Yfantidou.
-- [Services for data science at AWS](./paulalm94/README.md) (*[slides](./paulalm94/slides.pdf)*)  by Luis Sosa - Paul Almasan.
 - [Services for Data Science at Microsoft Azure](./IllSc/README.md) (*[slides](./IllSc/slides.pdf)*)  by Ivan Putera Masli - Kshitij Kumar.
 - [Data lakes at Microsoft Azure](./jayanthi456/README.md) (*[slides](./jayanthi456/slides.pdf)*)  by Jayanthi Kambayatughar - Anastasiia Zavolozhina.
 
