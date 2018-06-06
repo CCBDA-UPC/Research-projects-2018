@@ -87,7 +87,7 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 - [Data lakes at Microsoft Azure](./jayanthi456/README.md) (*[slides](./jayanthi456/slides.pdf)*)  by Jayanthi Kambayatughar - Anastasiia Zavolozhina.
 
 ## Data Science tools and services:
-- [IoT hubs](./duy-tran/README.md) (*[slides](./duy-tran/slides.pdf)*)  by Marc Garnica Caparrós - Quang-Duy Tran.
+- [IoT hubs](./duy-tran/docs/REPORT.md) (*[slides](./duy-tran/slides.pdf)*)  by Marc Garnica Caparrós - Quang-Duy Tran.
 - [Data visualization using Tableau I](./sergiers3/README.md) (*[slides](./sergiers3/slides.pdf)*)  by Segio J. Ruiz Sainz - Dagoberto J. Herrera Murillo.
 - [Data visualization using Tableau II](./JuanjoVG/README.md) (*[slides](./JuanjoVG/slides.pdf)*)  by Sergi Tortosa i Ortiz-Villajos - Juan José Vázquez Giménez.
 - [Spark I](./IreneMLC/README.md) (*[slides](./IreneMLC/slides.pdf)*)  by Adnan Boota - Irene López.
